@@ -1,0 +1,103 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    margin: 0px;
+    padding: 0px;
+    width: 100vw;
+    height: 100vh;
+}
+
+
+div {
+    float: left;
+    position: relative;
+    margin-top: -8px;
+}
+
+img.imgEu {
+    width: 160px;
+    height: 160px;
+    border-radius: 50%;
+    margin: 70px;
+    margin-top: 200px;
+}
+
+#div1 {
+    background-color: #D2691E;
+    width: 300px;
+    height: 100vh;
+}
+
+li {
+    color: black;
+    text-align: center;
+}
+
+#div2 {
+    height: 100%;
+    width: calc(100% - 300px);
+}
+
+h1.h1-nome {
+    text-align: 30px;
+    padding-top: 175px;
+}
+
+.title-nome {
+    margin: 10px;
+    margin-top: auto;
+}
+
+p.endereco {
+    margin: 13px;
+
+}
+
+p.fraseEu {
+    padding: 50px;
+    margin: -35px;
+}
+
+.circulo {
+    cursor: pointer;
+}
+
+photo a {
+    position: relative;
+}
+
+img.twitter {
+    width: 35px;
+    height: 35px;
+}
+
+img.face {
+    width: 35px;
+    height: 35px;
+}
+
+img.git {
+    width: 35px;
+    height: 35px;
+}
+
+img.linkedin {
+    width: 35px;
+    height: 38px;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+h2 {
+    margin: 14px;
+}
